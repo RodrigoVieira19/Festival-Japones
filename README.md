@@ -8,7 +8,7 @@ Nesse projeto, foi desenvolvido um site responsivo usando o Grid Layout.
 * Quais tecnologias foram utilizadas? (HTML, CSS e Grid Layout)
 * O que foi aprendido durante o projeto? (Consegui desenvolver um site responsivo usando somente o Grid Layout)
 
-* Todas as imagens encontradas no site foram retiradas do site: [Unsplash](https://unsplash.com/),  
+* Todas as imagens encontradas no site foram retiradas do site: [Unsplash](https://unsplash.com/)
 <br>
 <br>
 São Paulo 24/01/22
