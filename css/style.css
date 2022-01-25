@@ -28,9 +28,9 @@ img {
 
 /* GRID GERAL */
 
-.estrutura { /* aqui é a estrutura geral do site. (os simbolos dos animais, o conteúdo geral e os anuncios à direita) */
+.estrutura { 
   display: grid;
-  grid-template-columns: minmax(160px, 1fr) 3fr 300px; /*Aqui estou definindo o tamanho das colunas (são tres colunas principais). a primeira, eu quero que ela tenha o minimo de 160px e o maximo que ela chegue seja 1fr. a Segunda eu quero que tenha 3fr pra poder expandir bem o conteúdo, e a terceira tem 300px */
+  grid-template-columns: minmax(160px, 1fr) 3fr 300px;
   grid-template-areas:
     'header header header'
     'sidenav content anuncios'
